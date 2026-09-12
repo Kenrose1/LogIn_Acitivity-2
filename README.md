@@ -12,7 +12,7 @@ A simple Android login demo app built with Kotlin. It demonstrates passing data 
 
 ## Screenshots
 
-> Add your screenshots to `docs/screenshots/` and update the paths below.
+> Added screenshots to `docs/screenshots/` and update the paths below.
 
 | Login Screen | Success | Login Failed |
 |---|---|---|
