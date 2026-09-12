@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Log Activity</string>
+    <string name="login_prompt">Please Enter Your Username and password below to login</string>
+    <string name="hint_username">Enter Your Username:</string>
+    <string name="hint_password">Enter Your Password:</string>
+    <string name="login_button">Login</string>
+    <string name="Welcome_message">Welcome, ${etUsername.text}!</string>
+</resources>
